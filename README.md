@@ -3,4 +3,4 @@
 
 Texto para simples observação do funcionamento do VisualStudio Code.
 
-Essa linha foiincluída diretamente no site.
+Essa linha foi incluída diretamente no site.
